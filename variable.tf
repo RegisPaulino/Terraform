@@ -14,11 +14,11 @@ variable "instance_name" {
 }
 
 variable "vpc" {
-  default = "vpc-0f776f395248bee6b"
+  default = "vpc-0f876f395248bee7b"
 }
 
 variable "subnet" {
-  default = "subnet-03dd758634314f16f"
+  default = "subnet-03dd758634314f17f"
 }
 
 variable "env" {
