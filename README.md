@@ -17,3 +17,4 @@ Toda a estrutura de arquivos de respeitar o tipo de cada recurso (Variaveis, Out
 Subir para o github de vocês e me passar o endereço por e-mail (william.loliveira@hotmail.com)
 
 Conteúdo da aula: https://github.com/williamloliveira/terraform_basico
+"# Terraform" 
